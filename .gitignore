@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Aseprite temp files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.ase
+*.png
+*.json
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
