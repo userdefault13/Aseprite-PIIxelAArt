@@ -12,7 +12,9 @@ Thumbs.db
 # Generated files
 *.ase
 *.png
+# Allow package.json, ignore other JSON files
 *.json
+!package.json
 
 # IDE files
 .vscode/

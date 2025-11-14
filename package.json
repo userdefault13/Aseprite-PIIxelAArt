@@ -1,0 +1,17 @@
+{
+  "name": "ai-pixel-sprites",
+  "displayName": "AI Pixel Sprites",
+  "version": "1.0.0",
+  "description": "Generate pixel art sprites using free Stable Diffusion",
+  "author": "Your Name",
+  "contributors": [],
+  "publisher": "",
+  "license": "MIT",
+  "categories": ["Scripts"],
+  "contributes": {
+    "scripts": [
+      { "path": "./scripts/main.lua" }
+    ]
+  }
+}
+
